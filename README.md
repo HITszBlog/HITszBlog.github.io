@@ -1,4 +1,4 @@
-# HITsz Blogroll
+# HITsz 博客圈
 
 | ID           | Link                        |
 | ------------ | --------------------------- |
@@ -6,11 +6,18 @@
 | test         | https://lai-jx.github.io/   |
 | 不说话装高手 | https://xurui314.github.io/ |
 |              |                             |
+|              |                             |
+|              |                             |
+|              |                             |
+|              |                             |
+|              |                             |
 
-## Introduction
+## 简介
 
 ...
 
-## Guide
+## 指南
 
 ...
+
+## 关于
